@@ -136,7 +136,7 @@ const ChannelListContainer = ({
         />
       </div>
       <div
-        className="channel=list__container-responsive"
+        className="channel-list__container-responsive"
         style={{
           left: toggleContainer ? "0%" : "-89%",
           backgroundColor: "#005fff",
